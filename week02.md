@@ -16,6 +16,13 @@ Her experiences as an immigrant also play a role in her work, as she often incor
 
 In conclusion, Yayoi Kusama's work often includes political and social commentary that reflects her experiences as a woman and an immigrant in a male-dominated art world. Through her use of repetition, accumulation, vibrant colors, and surreal imagery, Kusama challenges traditional gender roles and patriarchal values, while also raising awareness about important social and political issues. Her work serves as a powerful form of resistance and a means of advocating for greater representation and equality.
 
+![](https://github.com/tomoko-tiba/Critical-Studies-Blog/blob/pics/961675952983_.pic.jpg)
+
+![](https://github.com/tomoko-tiba/Critical-Studies-Blog/blob/pics/971675952985_.pic.jpg)
+
+![](https://github.com/tomoko-tiba/Critical-Studies-Blog/blob/pics/981675952987_.pic.jpg)
+
+![](https://github.com/tomoko-tiba/Critical-Studies-Blog/blob/pics/991675952990_.pic.jpg)
 
 Yan Wang 22019755
 2023.02.06
