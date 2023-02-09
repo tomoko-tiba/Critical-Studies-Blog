@@ -1,4 +1,4 @@
-For my learning trip this week, I chose to visit Yayoi Kusama's exhibition at the Tate. I was so impressed by Yayoi Kusama's exhibition that I wanted to discuss curatorial and artistic works such as challenging existing power dynamics and knowledge structures in light of her exhibition and work.
+This week, I chose to visit Yayoi Kusama's exhibition at the Tate Museum. I was so impressed by Yayoi Kusama's exhibition that I wanted to discuss curatorial and artistic works such as challenging existing power dynamics and knowledge structures in light of her exhibition and work.
 
 Yayoi Kusama is a Japanese artist whose work spans several decades and mediums, including painting, sculpture, installation, and performance. Her work is heavily influenced by her cultural background, personal experiences, and her unique artistic vision.
 
