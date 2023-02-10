@@ -24,17 +24,12 @@ In conclusion, Crip Station was a testament to what was possible when people cam
 
 ## research
 
-1. Formulate a research question: To begin, I would formulate a clear and concise research question, such as "What is the relationship between playing video games featuring idealized body types and body satisfaction in young adults?"
+1. Formulate a research question: To begin, I formulated a clear and concise research question about "What is the relationship between playing video games featuring idealized body types and body satisfaction in young adults?"
 
-Identify relevant databases: Next, I would identify databases that are likely to contain relevant articles, such as PsycINFO, Medline, and Web of Science.
+2. Identify relevant databases: Next, I would identify databases that are likely to contain relevant articles, such as PsycINFO, Medline, and Web of Science.
 
-Conduct the search: I would then conduct a search using keywords related to the topic, such as "video games," "body satisfaction," "body image," and "young adults." I would also consider using Boolean operators (e.g., AND, OR) to combine terms and narrow the search results.
+3. Conduct the search: I would then conduct a search using keywords related to the topic, such as "video games," "body satisfaction," "body image," and "young adults." I also used Boolean operators (e.g., AND, OR) to combine terms and narrow the search results.
 
-Evaluate the articles: Once I have a list of articles, I would review the abstracts to assess their relevance and potential contribution to the research question. I would also consider the quality of the studies, including the sample size, methodologies used, and any potential biases or limitations.
+4. Evaluate the articles: Once I have a list of articles, I would review the abstracts to assess their relevance and potential contribution to the research question. I would also consider the quality of the studies, including the sample size, methodologies used, and any potential biases or limitations.
 
-Synthesize the results: After evaluating the articles, I would synthesize the results to draw conclusions about the relationship between playing video games featuring idealized body types and body satisfaction in young adults. I would consider the consistency of the results across studies, as well as any discrepancies or conflicting findings.
-
-Report the results: Finally, I would report the results of the literature search in a clear and organized manner, highlighting the key findings and implications for future research.
-
-This process is not set in stone and may vary depending on the researcher's goals and the specific requirements of the project, but it provides a general framework for conducting a comprehensive and thorough literature search on a given topic.
-
+5. Synthesize the results: After evaluating the articles, I would synthesize the results to draw conclusions about the relationship between playing video games featuring idealized body types and body satisfaction in young adults. I would consider the consistency of the results across studies, as well as any discrepancies or conflicting findings.
