@@ -35,4 +35,4 @@ Taylor, Kate (28 February 2018). "How Yayoi Kusama's Infinity Mirrors pushed po
 
  "The world according to Yayoi Kusama". Financial Times. 20 January 2012. Archived from the original on 15 July 2022. Retrieved 11 March 2017.
 
-Dailey, Megan. "YAYOI KUSAMA: ART AS AN ESCAPE". Archived from the original on 15 July 2022. Retrieved 8 May 2019.
+Dailey, Megan. "YAYOI KUSAMA: ART AS AN ESCAPE". Archived from the original on 15 July 2022. Retrieved 8 May 2019. 
