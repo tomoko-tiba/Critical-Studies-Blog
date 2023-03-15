@@ -19,4 +19,4 @@ In conclusion, while some may categorize Victoria Modesta as a posthuman artist,
 - Clark, A. (2003). Natural-born cyborgs: Minds, technologies, and the future of human intelligence. Oxford University Press.
 - Hayles, N. K. (1999). How we became posthuman: Virtual bodies in cybernetics, literature, and informatics. University of Chicago Press.
 - Kurzweil, R. (2005). The singularity is near: When humans transcend biology. Penguin.
-- Modesta, V. (2021). Victoria Modesta. https://victoriamodesta.com/
+- Modesta, V. (2021). Victoria Modesta. https://victoriamodesta.com/ 
