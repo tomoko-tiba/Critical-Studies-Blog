@@ -1,4 +1,4 @@
-##  short story about a new space station
+##  Story about a new space station
 
 Once upon a time, in a future not too far from now, a new space station was built with a revolutionary idea in mind. This space station, named "Crip Station," was designed to embrace difference and celebrate diversity in all its forms.
 
