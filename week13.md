@@ -26,3 +26,4 @@ In conclusion, Yayoi Kusama's work often includes political and social commentar
 
 Yan Wang 22019755
 2023.02.06
+ 
