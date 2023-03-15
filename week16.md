@@ -12,6 +12,8 @@ Modesta's work also aligns with the transhumanist movement in that it seeks to u
 
 In conclusion, while some may categorize Victoria Modesta as a posthuman artist, I believe that her work is more accurately categorized as transhuman. Her use of technology is not meant to transcend humanity but rather to enhance and expand upon it, encouraging individuals to embrace their own potential and use technology to overcome the limitations of the human body and mind. Modesta's work challenges traditional ideas about what it means to be human and encourages individuals to use technology as a means of growth and transformation.
 
+### References:
+
 - Badano, G. (2017). The transhumanist challenge and its implications for democracy. Social Science Information, 56(3), 417-437.
 - Bostrom, N. (2014). Superintelligence: Paths, dangers, strategies. Oxford University Press.
 - Clark, A. (2003). Natural-born cyborgs: Minds, technologies, and the future of human intelligence. Oxford University Press.
