@@ -10,7 +10,7 @@ The Solar Protocol offers a different approach to technology design, one that is
 
 The Solar Protocol also challenges the dominant paradigm of technological development, which is focused on growth and profit rather than sustainability and social good. This is a key point made by Sylvia Federici, who argues that "the capitalist development of technology has resulted in an ecological crisis, social polarization, and the further exploitation of the global South."
 
-Overall, the Solar Protocol is a great example of how minor technology can be used to create a more sustainable and socially responsible future. As the creators state, "we hope that the Solar Protocol will inspire more sustainable digital practices, and that it will contribute to a broader movement for digital justice and ecological resilience."
+Overall, the Solar Protocol is a great example of how minor technology can be used to create a more sustainable and socially responsible future. As the creators state, "we hope that the Solar Protocol will inspire more sustainable digital practices, and that it will contribute to a broader movement for digital justice and ecological resilience." 
 
 ### References:
 
